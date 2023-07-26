@@ -1,5 +1,9 @@
-change this line in `crabgame_mod_template.csproj` to your bepinex directory path
+# HealthColor
+Change the color of your health bar.
 
-```xml
-<BepInExDirectory>C:\Program Files\Steam\steamapps\common\Crab Game\BepInEx</BepInExDirectory>
+```
+/color
+/color health <color>
+/color damage <color>
+/color <health> <damage>
 ```
